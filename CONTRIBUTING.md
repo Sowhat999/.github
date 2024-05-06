@@ -1,1 +1,0 @@
-> Our community-wide contributing documentations is available here: <https://contribute.freecodecamp.org>
